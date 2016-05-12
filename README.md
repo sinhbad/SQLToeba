@@ -1,7 +1,7 @@
 # SQLToeba
 Building Sqlite3 database from .csv files (from tatoeba.org). Can be used in ctoeba and tatoebaToStarDict programs.
 
-How to biild database?
+How to biild database:
 
 
 chmod +x install.sh
